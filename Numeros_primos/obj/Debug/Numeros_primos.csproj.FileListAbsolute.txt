@@ -1,0 +1,6 @@
+C:\Users\Desarrollador\Desktop\C#\Numeros_primos\Numeros_primos\Numeros_primos\bin\Debug\Numeros_primos.exe.config
+C:\Users\Desarrollador\Desktop\C#\Numeros_primos\Numeros_primos\Numeros_primos\bin\Debug\Numeros_primos.exe
+C:\Users\Desarrollador\Desktop\C#\Numeros_primos\Numeros_primos\Numeros_primos\bin\Debug\Numeros_primos.pdb
+C:\Users\Desarrollador\Desktop\C#\Numeros_primos\Numeros_primos\Numeros_primos\obj\Debug\Numeros_primos.csproj.CoreCompileInputs.cache
+C:\Users\Desarrollador\Desktop\C#\Numeros_primos\Numeros_primos\Numeros_primos\obj\Debug\Numeros_primos.exe
+C:\Users\Desarrollador\Desktop\C#\Numeros_primos\Numeros_primos\Numeros_primos\obj\Debug\Numeros_primos.pdb
